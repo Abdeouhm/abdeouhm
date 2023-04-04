@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdeouhm" alt="abdeouhm" /></a> </p>
 
-- 🔭 I’m currently working on **TravellWebsite**
+- 🔭 I’m currently working on **FoodWebsite**
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Php**
 
 - 💬 Ask me about **JavaScript**
 
