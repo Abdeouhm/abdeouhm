@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Php**
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about *Php**
 
 - 📫 How to reach me **businessabdeou@gmail.com**
 
